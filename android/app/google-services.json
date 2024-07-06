@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808823801761",
+    "project_id": "deb-course-ad081",
+    "storage_bucket": "deb-course-ad081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808823801761:android:d33e2a2a086585aaeb6de0",
+        "android_client_info": {
+          "package_name": "com.example.codehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-pk5nzWiNxJZPNZ99lG6weFlGqjoI-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
